@@ -36,7 +36,7 @@
     <td align="center"><a href="https://github.com/noeyeyh"><img src="https://avatars.githubusercontent.com/u/126255206?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/uoo6uoow"><img src="https://avatars.githubusercontent.com/u/154813925?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/ity0526"><img src="https://avatars.githubusercontent.com/u/61374973?v=4" width="130px;" alt=""></a></td>
-    <td align="center"><a href=""><img src="" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/jungyungee"><img src="https://avatars.githubusercontent.com/u/86039030?v=4" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/oyatplum"><b>oyatplum</b></a></td>
@@ -45,7 +45,7 @@
 uoo6uoow</b></a></td>
     <td align="center"><a href="https://github.com/ity0526"><b>
 ity0526</b></a></td>
-    <td align="center"><a href=""><b>yungeejung</b></a></td>
+    <td align="center"><a href="https://github.com/jungyungee"><b>jungyungee</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
