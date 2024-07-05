@@ -1,43 +1,30 @@
 package algorithm.pythagoras;
 
+import java.util.ArrayList;
 import java.util.Scanner;
-
 
 public class Main {
     public static void main(String[] args) {
-
+        /*N 입력받기*/
         Scanner scanner = new Scanner(System.in);
-        while (true) {
-            /*세 변 길이 입력받기*/
-            String input = scanner.nextLine();
+        int N = scanner.nextInt();
+        System.out.println(solution(N));
+    }
 
-            if (input.equals("0 0 0"))
-                break; // 0 0 0입력 받으면 종료
+    public static int solution(int N) {
+        int answer = 0;
+        ArrayList<Integer> sixList = new ArrayList<>(); ///666이 들어간 정수 배열
+        boolean contain; // 666이 들어있는지 확인하는 플래그
 
-            // 공백으로 구분된 문자열을 분리하여 문자열 배열로 변환
-            String[] stringNumbers = input.split(" ");
+        for (int i = 666; i < 10000000; i++) {
+            String num = String.valueOf(i); //i를 문자열로 저장함
+            contain = num.contains("666"); //문자열로 저장된 i가 666을 포함하는지 확인, 포함하면 true
 
-            // 문자열 배열을 세 개의 정수에 할당
-            int a = Integer.parseInt(stringNumbers[0]);
-            int b = Integer.parseInt(stringNumbers[1]);
-            int c = Integer.parseInt(stringNumbers[2]);
-
-            if(result(a, b, c)){
-                System.out.println("right");
-            }else{
-                System.out.println("wrong");
+            if (contain) {
+                sixList.add(i); //배열에 666포함하는 숫자 넣기
             }
         }
-    }
-    private static boolean result(int a, int b, int c){
-        if((sqrt(a) == sqrt(b) + sqrt(c)) ||(sqrt(b) == sqrt(a) + sqrt(c)) || sqrt(c) == sqrt(a) + sqrt(b)){
-            return true;
-        }else{
-            return false;
-        }
-    }
 
-    private static int sqrt(int num){
-        return num * num;
+        answer = sixList.get(N - 1);
+        return answer;
     }
-}
