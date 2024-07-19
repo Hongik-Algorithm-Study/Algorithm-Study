@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddcf063b-c1ca-48bb-b80f-2848b1081010" name="Changes" comment="" />
+    <list default="true" id="ddcf063b-c1ca-48bb-b80f-2848b1081010" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +69,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -113,6 +116,8 @@
       <workItem from="1720079830335" duration="2880000" />
       <workItem from="1720239884586" duration="1523000" />
       <workItem from="1720363670437" duration="47000" />
+      <workItem from="1720874749524" duration="891000" />
+      <workItem from="1721372549911" duration="4000" />
     </task>
     <servers />
   </component>
