@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        /*N 입력받기*/
         Scanner scanner = new Scanner(System.in);
         int N = scanner.nextInt();
         System.out.println(solution(N));
