@@ -4,7 +4,104 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddcf063b-c1ca-48bb-b80f-2848b1081010" name="Changes" comment="" />
+    <list default="true" id="ddcf063b-c1ca-48bb-b80f-2848b1081010" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/uoo6uoow/Week9/부녀회장이 될테야.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uoo6uoow/Week9/설탕배달.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uoo6uoow/Week9/카드2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week1/Week1/영화감독 숌.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week2/단어 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week2/직각삼각형.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week2/팩토리얼 0의 개수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week3/소수 찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week3/웰컴 키트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week3/체스판 다시 칠하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week4/분해합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week4/수 정렬하기2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week4/팰린드롬수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week5/나이순 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week5/덩치.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week5/벌집.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week6/블랙잭.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week6/좌표 정렬하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week6/평균.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week7/Hashing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week7/요세푸스 문제 0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week8/수 찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week8/좌표 정렬하기 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week8/최대공약수와 최소공배수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week9/부녀회장이 될테야.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week9/설탕 배달.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ity0562/ity0526_week9/카드2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jungyungee/Week1/영화감독숌.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jungyungee/Week2/단어정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jungyungee/Week2/직각삼각형.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jungyungee/Week2/팩토리얼0의개수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jungyungee/Week3/소수찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jungyungee/Week3/웰컴키트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jungyungee/Week3/체스판.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jungyungee/Week4/분해합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jungyungee/Week4/수정렬2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jungyungee/Week4/팰린드롬수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jungyungee/Week5/나이순정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jungyungee/Week5/덩치.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jungyungee/Week5/벌집.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jungyungee/Week6/블랙잭.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jungyungee/Week6/좌표 정렬하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jungyungee/Week6/평균.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jungyungee/Week7/hashing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jungyungee/Week7/요세푸스문제.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week1/영화감독 숌.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week2/단어 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week2/직각삼각형.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week2/팩토리얼 0의 개수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week3/소수 찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week3/웰컴 키트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week3/체스판 다시 칠하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week4/분해합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week4/수 정렬하기2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week4/팰린드롬수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week5/나이순 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week5/덩치.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week5/벌집.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week6/블랙잭.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week6/좌표 정렬하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week6/평균.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week7/Hashing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week7/요세푸스 문제 0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week8/수 찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week8/좌표 정렬하기 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week8/최대공약수와 최소공배수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week9/부녀회장이 될테야.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week9/설탕 배달.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noeyeyh/Week9/카드2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week1/영화감독 숌.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week2/단어 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week2/직각삼각형.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week2/팩토리얼 0의 개수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week3/소수 찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week3/웰컴 키트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week3/체스판 다시 칠하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week4/분해합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week4/수 정렬하기2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week4/팰린드롬수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week5/나이순 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week5/덩치.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week5/벌집.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week6/블랙잭.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week6/좌표 정렬하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week6/평균.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week7/Hashing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week7/요세푸스 문제 0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week8/수 찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week8/좌표 정렬하기 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week8/최대공약수와 최소공배수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week9/부녀회장이 될테야.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week9/설탕 배달.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oyatplum/Week9/카드 2.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,26 +148,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.영화감독 숌.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;oyatplum&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.영화감독 숌.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "uoo6uoow",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="영화감독 숌" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Algorithm-Study" />
