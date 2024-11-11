@@ -37,6 +37,7 @@
     <td align="center"><a href="https://github.com/uoo6uoow"><img src="https://avatars.githubusercontent.com/u/154813925?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/ity0526"><img src="https://avatars.githubusercontent.com/u/61374973?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/jungyungee"><img src="https://avatars.githubusercontent.com/u/86039030?v=4" width="130px;" alt=""></a></td>
+   <td align="center"><a href="https://github.com/jungyungee"><img src="https://avatars.githubusercontent.com/u/147643018?v=4" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/oyatplum"><b>oyatplum</b></a></td>
@@ -46,6 +47,7 @@ uoo6uoow</b></a></td>
     <td align="center"><a href="https://github.com/ity0526"><b>
 ity0526</b></a></td>
     <td align="center"><a href="https://github.com/jungyungee"><b>jungyungee</b></a></td>
+    <td align="center"><a href="https://github.com/jay91537"><b>jay91537</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
@@ -53,6 +55,7 @@ ity0526</b></a></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
 <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
   </tr> 
 </table>
 
