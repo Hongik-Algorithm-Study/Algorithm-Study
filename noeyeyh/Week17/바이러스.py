@@ -16,5 +16,6 @@ def dfs(m):
     for i in graph[m]:
         if visited[i]==0:
             dfs(i)
+            
 dfs(1)
 print(sum(visited)-1)
