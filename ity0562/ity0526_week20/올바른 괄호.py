@@ -1,5 +1,6 @@
 from collections import deque
 
+
 def solution(s):
     answer = True
     open = deque()
@@ -16,7 +17,7 @@ def solution(s):
                 answer = False
                 break
 
-    if not open:
+    if open:
         answer = False
 
     return answer
